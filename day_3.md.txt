@@ -1,0 +1,18 @@
+# Web Threats:
+ ## Spam:
+   -A huge issue
+   -A complete forlder for it.
+   -Not direct threat.
+   -can contain malware.
+ ## Trojan:
+   -Leaves a computer completely unprotected.
+   -Hackers can steal any data.
+   -In representation they are harmless so that we don't go in anydoubt about hacking of data.
+ ## Virus:
+   -Mallicious code
+   -They attach themselves to downloads.
+ ## Worms:
+  -Attach themselves to emails.
+ ## Phishing:
+  -Fraudulent activity.
+  -Sending email to a well-known provider such as bank.These emails can acquire passwords and credit card details.
